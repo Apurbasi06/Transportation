@@ -1,0 +1,52 @@
+ body {
+    text-align: center;
+      background-image: linear-gradient(to right, #eea2a2 0%, #bbc1bf 19%, #57c6e1 42%, #b49fda 79%, #7ac5d8 100%);
+    
+}
+
+p{
+    font-size: 25px;
+  
+}
+
+hr{
+    font-weight: bold;
+}
+
+#transportation{
+  background: linear-gradient(#EE1B26 0%, #FFDA0A 100%);
+}
+
+
+#bold{
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+h1{
+    font-size: 35px;
+}
+
+
+
+#means {
+     background: linear-gradient(#00DBDE 0%, #FC00FF 100%); 
+}
+
+#land {
+    background: linear-gradient(#85FFBD 0%, #FFFB7D 100%); 
+}
+
+#railways {
+    background: linear-gradient(#FBAB7E 0%, #FFFB7D 100%); 
+}
+
+#roadways {
+ background-image: linear-gradient(to top, #3f51b1 0%, #5a55ae 13%, #7b5fac 25%, #8f6aae 38%, #a86aa4 50%, #cc6b8e 62%, #f18271 75%, #f3a469 87%, #f7c978 100%);
+}
+
+img{
+    width: 300px;
+}
+
+
